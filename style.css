@@ -130,3 +130,14 @@ body
     color: white;
     transition: 3s;
 }
+
+.video-aparat
+{
+    position: absolute;
+    display: flex;
+    top: 40%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+    color: white;
+    transition: 3s;
+}
