@@ -133,7 +133,12 @@ body
 
 .video-aparat
 {
-    width: 100px;
-    height: 100px;
+    position: absolute;
+    display: flex;
+    top: 40%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+    width: 500px;
+    height: 500px;
 
 }
