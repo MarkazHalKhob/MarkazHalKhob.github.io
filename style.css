@@ -119,3 +119,12 @@ body
     left: 70%;
     transform: translate( -50%, -50%); 
 }
+
+.welcome
+{
+    position: absolute;
+    display: flex;
+    top: 20%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+}
