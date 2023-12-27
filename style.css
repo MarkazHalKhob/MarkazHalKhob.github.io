@@ -21,7 +21,7 @@ body
     /*background-color: rgb(255, 255, 255); /* رنگ پس زمینه نوار */
     overflow: hidden; /* برای مدیریت در صورتی که محتوای زیاد داشته باشید */
     height: 100px;
-    width: 1500px;
+    width: 1400px;
     border-radius: 15px;
     position: absolute;
     display: flex;
