@@ -120,7 +120,7 @@ body
     transform: translate( -50%, -50%); 
 }
 
-h2
+.welcome
 {
     position: absolute;
     display: flex;
@@ -128,4 +128,5 @@ h2
     left: 50%;
     transform: translate( -50%, -50%);
     color: white;
+    transition: 3s;
 }
